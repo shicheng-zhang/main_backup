@@ -16,5 +16,5 @@ inline int factorial (int x) {
 inline float gamma_new (float x);
 inline float gamma_new (float x) {
     float placeholder = 2.0;
-    
+        
 }
